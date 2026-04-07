@@ -1,3 +1,5 @@
 Hello, this is git1 homework.
 Added a change.
 Added to github website.
+This commit in develop
+This commit on GitHub in develop branch
